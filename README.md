@@ -1,15 +1,16 @@
 # React Study from Udemy Maximilian (Academind)
 From Section 3 to 6
-* convert static to dynamic
-* rewind hook and props
-* make expenses bt filter and forms.
+* try convert static list to dynamic (mostly props and pointing)
+* hooks and props
+* make expenses by filter and forms.
 * Percentage Chart is on middle. Based on each expenses / Maximum expenses * 100
 * For last image to add expense, I added first and after write exact same expense for how I add it.
 ------------
 ### 설명:
-리액트를 사용하였으나 jsx 확장자를 따로 사용하지 않았고, (수업에서 마찬가지)
+리액트를 사용하였으나 jsx 확장자 대신 js 확장자를 사용했다. (Instructor 지침.)
 작성 코드 중 위의 Add New Expense가 열리는 파트는 중간 Assignment로 내가 작성한 코드로 
 Instructor는 Parent jsx에서 Pointing 하는 방식으로 진행됨. (실제로 더 간결해 보임.)
+마지막 이미지는 값을 집어넣고 다시 input에 같은 값을 넣었다.
 
 # Preview Website:
 ### 웹사이트 초기 상태:
