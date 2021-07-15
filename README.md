@@ -6,9 +6,10 @@ From Section 3 to 6
 * Percentage Chart is on middle. Based on each expenses / Maximum expenses * 100
 * For last image to add expense, I added first and after write exact same expense for how I add it.
 ------------
-### 리액트를 사용하였으나 jsx 확장자를 따로 사용하지 않았고, (수업에서 마찬가지)
-### 작성 코드 중 위의 add expense가 열리는 파트는 중간 Assignment로 내가 작성한 코드로 
-### Instructor는 Parent jsx에서 Pointing 하는 방식으로 진행됨. (실제로 더 간결해 보임.)
+### 설명:
+리액트를 사용하였으나 jsx 확장자를 따로 사용하지 않았고, (수업에서 마찬가지)
+작성 코드 중 위의 add expense가 열리는 파트는 중간 Assignment로 내가 작성한 코드로 
+Instructor는 Parent jsx에서 Pointing 하는 방식으로 진행됨. (실제로 더 간결해 보임.)
 
 # Preview Website:
 ### 웹사이트 초기 상태:
